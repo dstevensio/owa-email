@@ -6,7 +6,7 @@ Clone this repo
 
 `npm install`
 
-`node app.js MAIL\_USERNAME OWA\_URL`
+`node app.js MAIL_USERNAME OWA_URL`
 
 You'll be prompted for your mail password (only held in memory).
 
